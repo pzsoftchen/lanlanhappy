@@ -1,4 +1,4 @@
 # lanlanhappy
 blog
 
-www.lanlanhappy.com
+www.happycoding.cool

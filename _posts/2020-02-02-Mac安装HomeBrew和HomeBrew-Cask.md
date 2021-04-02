@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac安装HomeBrew和HomeBrew-Cask"
 date:   2020-02-02 10:12:33 +0800
-tags: "mac"
+categories: NOTE
 ---
 
 

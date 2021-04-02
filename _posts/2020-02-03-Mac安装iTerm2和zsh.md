@@ -2,7 +2,7 @@
 layout: post
 title:  "Mac安装iTerm2和zsh"
 date:   2020-02-03 11:22:13 +0800
-tags: "开发环境"
+categories: NOTE
 ---
 
 ## Mac安装iTerm2和zsh
