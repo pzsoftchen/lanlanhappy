@@ -7,7 +7,7 @@ categories: NOTE
 
 
 <div align=center>
-<img src="/assets/img/2020-02-02-01.png">
+<img src="../assets/img/2020-02-02-01.png">
 </div>
 
 ## Mac安装HomeBrew和HomeBrew-Cask

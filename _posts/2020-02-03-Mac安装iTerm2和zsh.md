@@ -7,7 +7,7 @@ categories: NOTE
 
 ## Mac安装iTerm2和zsh
 
-> 安装过程，采用 brew 安装，如不支持brew，请参考该链接安装：<a href="https://www.lanlanhappy.com/archives/mac%E5%AE%89%E8%A3%85homebrew%E5%92%8Chomebrewcask" target="_blank">Homebrew安装过程</a>
+> 安装过程，采用 brew 安装，如不支持brew，请参考该链接安装：<a href="http://www.happycoding.cool/blog/blog/Mac%E5%AE%89%E8%A3%85HomeBrew%E5%92%8CHomeBrew-Cask.html" target="_blank">Homebrew安装过程</a>
 
 ### 安装iTerm2
 brew cask install iTerm2
@@ -29,9 +29,6 @@ sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O 
 #### 方式三
 1. 将安装脚本下载到本地
 2. 执行 sh install.sh 进行安装
-
-[安装脚本](https://www.lanlanhappy.com/upload/2020/2/install-da6ac9c86876436687804dc290128d31.sh)
-[卸载脚本](https://www.lanlanhappy.com/upload/2020/2/uninstall-c3f0c01ce5d84a699d0f698aeed2c86b.sh)
 
 ### 配置主题
 
