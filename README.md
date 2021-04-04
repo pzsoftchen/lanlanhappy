@@ -1,4 +1,4 @@
 # 博客
 blog
 
-www.happycoding.cool
+www.happycoding.cool/blog
